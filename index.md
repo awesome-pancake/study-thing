@@ -1,3 +1,3 @@
 # Emmett's Study Website
 
-Placeholder text
+- [Mechanics Practice Problems](mech-study)
