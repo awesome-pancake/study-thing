@@ -1,3 +1,3 @@
-# Study Thing
+# Study Website
 
-This is a study thing.
+The purpose of this repository is to generate practice problems for GE 122.
